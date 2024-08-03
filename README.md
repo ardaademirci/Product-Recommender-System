@@ -1,4 +1,4 @@
-# Product-Recommender-System
+# Product Recommender System using Machine Learning
 
 This Product Recommender System is my Senior Graduation Project.
 
