@@ -1,0 +1,26 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>percentage_of_missing_values (1).jpg</file>
+    <file>inliners_and_outliners (1).jpg</file>
+    <file>avg_silhouette_scot_for_k (1).jpg</file>
+    <file>CV_vs_NoC (1).jpg</file>
+    <file>correlation_matrix (1).jpg</file>
+    <file>settings_white.png</file>
+    <file>settings.png</file>
+    <file>search.png</file>
+    <file>profile_white.png</file>
+    <file>profile_pic.png</file>
+    <file>profile.png</file>
+    <file>notifications_white.png</file>
+    <file>notifications.png</file>
+    <file>messages_white.png</file>
+    <file>messages.png</file>
+    <file>menu.png</file>
+    <file>log_out_white.png</file>
+    <file>log_out.png</file>
+    <file>image.png</file>
+    <file>dashboard_white.png</file>
+    <file>dashboard.png</file>
+  </qresource>
+  <qresource prefix="grafikler"/>
+</RCC>
