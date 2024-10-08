@@ -18,3 +18,55 @@ This project was initially designed to be a universal and generic, meaning that 
 The more specific and shaped-for-brand version is the next step of this project.
 The aim is to automate the recommending part into the E-commerce business' framework.
 
+
+GUI:
+
+
+
+
+
+
+The graphs:
+
+Inliers and Outliers:
+
+![inliners_and_outliners](https://github.com/user-attachments/assets/c5de55c7-142d-4475-bc29-63d9fb55d807)
+
+
+Percentage of Missing Values:
+
+![percentage_of_missing_values](https://github.com/user-attachments/assets/4a12419c-95cb-471f-96c6-b73dd4cecb30)
+
+
+Average Silhouette Score for K:
+
+![avg_silhouette_scot_for_k](https://github.com/user-attachments/assets/6e7d6574-49ba-4e00-af06-45887fa0ce2f)
+
+
+Cumulative Variance vs. Number of Components
+
+![CV_vs_NoC](https://github.com/user-attachments/assets/8eae47b5-8263-4ef0-851e-83725f1e2e64)
+
+
+Correlation Matrix
+
+![correlation_matrix](https://github.com/user-attachments/assets/13867365-db2c-4484-a02c-0092f8acf88c)
+
+
+Distribution of Customers Across Clusters
+
+![dist_of_customers_across_clusters](https://github.com/user-attachments/assets/cf0ea2ea-32f2-4c99-9258-42bd393f5308)
+
+
+Top 10 Stock Codes
+
+![top_10_stock_codes](https://github.com/user-attachments/assets/cdd04e42-e426-45d7-8897-33a94a1785f0)
+
+
+Number of Occurences
+
+![number_of_occurrences](https://github.com/user-attachments/assets/b02a59bc-49f0-4a18-937b-baddabf7c389)
+
+
+
+
