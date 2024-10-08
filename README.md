@@ -18,10 +18,14 @@ This project was initially designed to be a universal and generic, meaning that 
 The more specific and shaped-for-brand version is the next step of this project.
 The aim is to automate the recommending part into the E-commerce business' framework.
 
+You should install PySide.
 
 GUI:
+Edit (08.10.2024): I do not exactly know at which point it happened but all labels(titles, headers, descriptions) on GUI have dissapeared along with their declarations.
+I will write them all again in the near future.
 
 
+![WhatsApp Image 2024-10-08 at 19 45 00](https://github.com/user-attachments/assets/eaf6a8c7-d9c9-467f-8336-0a7f818cc225)
 
 
 
